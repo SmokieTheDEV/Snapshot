@@ -3,6 +3,8 @@
   <a href="https://cdn.discordapp.com/attachments/761614436003741737/761859458678390784/addd.PNG"></a>
   <br>
   Snapshot Discord Bot
+  
+  ## To rub bot as your self , just fill out the details in config.example.js , then rename it from config.example.js to config.js.
   <br>
 </h1>
 
